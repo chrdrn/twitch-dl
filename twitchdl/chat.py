@@ -26,7 +26,7 @@ from twitchdl.utils import format_time, iterate_with_next, parse_video_identifie
 # This should cover most text used in twitch chat
 # TODO: Make fonts configurable so users can choose their own
 TEXT_FONTS = [
-    "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSans/full/variable-ttf/NotoSans[wdth,wght].ttf",
+    "https://github.com/notofonts/notofonts.github.io/raw/main/fonts/NotoSans/full/variable-ttf/NotoSans%5Bwdth,wght%5D.ttf",
     "https://github.com/googlefonts/noto-cjk/raw/main/Sans/Variable/OTC/NotoSansCJK-VF.ttf.ttc",
 ]
 
